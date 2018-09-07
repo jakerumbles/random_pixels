@@ -1,3 +1,7 @@
+//Author: Jake Edwards
+//Class: CSC 323-001
+//Professor: Dr. Cook
+
 package com.company.example;
 
 import javax.imageio.ImageIO;
